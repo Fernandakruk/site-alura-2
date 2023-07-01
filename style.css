@@ -23,5 +23,22 @@
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 40%;
+}
+
+.escola{
+    background-color: #414B64;
+       color: antiquewhite;
+    display:flex;
+    justify-content: flex-end;
+        align-items: flex-end;
+        padding: 50px 50px;
+}
+
+.escola-div-conteudo{
+    width: 50%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
 }
