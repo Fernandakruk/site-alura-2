@@ -30,8 +30,8 @@
     background-color: #414B64;
        color: antiquewhite;
     display:flex;
-    justify-content: flex-end;
-        align-items: flex-end;
+    justify-content:center;
+        align-items: center;
         padding: 50px 50px;
         font-family: 'KoHo', sans-serif;
 }
@@ -43,4 +43,13 @@
 .escola-titulo{
     padding: 24px 0;
     font-family: 'Kavoon';
+}
+.estudante-imagem{
+    width: 230px;
+}
+
+.estudante-div{
+    text-align: center;
+    font-family: 'Koh Santepheap';
+padding: 20px 0;
 }
