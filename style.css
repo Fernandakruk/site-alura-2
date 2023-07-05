@@ -37,13 +37,14 @@
 }
 
 .escola-div-conteudo{
-    width: 60%;
+    width: 80%;
 }
 
 .escola-titulo{
     padding: 24px 0;
     font-family: 'Kavoon';
 }
+
 .estudante-imagem{
     width: 230px;
 }
@@ -52,4 +53,25 @@
     text-align: center;
     font-family: 'Koh Santepheap';
 padding: 20px 0;
+background-color: #8490B8;
+color: antiquewhite;
 }
+
+.estudante-titulo{
+    text-align: center;
+    padding: 24px 0;
+    font-family: 'Kavoon';
+    background-color: #8490B8;
+    color:#33364E;
+}
+
+.rodape{
+    background-color: #3B3D44;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
+
