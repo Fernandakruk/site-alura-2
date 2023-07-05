@@ -26,7 +26,7 @@
     width: 40%;
 }
 
-.escola{
+#escola{
     background-color: #414B64;
        color: antiquewhite;
     display:flex;
@@ -36,7 +36,7 @@
         font-family: 'KoHo', sans-serif;
 }
 
-.escola-div-conteudo{
+#escola-div-conteudo{
     width: 80%;
 }
 
